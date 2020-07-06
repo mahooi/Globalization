@@ -3,7 +3,7 @@
 # Human Slavery
 
 
-*[Data Analytics, Berlin & 06.20]*
+*[Data Analytics, Berlin & 07.20]*
 
 ## Content
 - [Project Description](#project-description)
