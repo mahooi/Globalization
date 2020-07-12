@@ -56,9 +56,9 @@ Recommended Order:
 
 ### Analysis
 
-In order to 
+- There is a statistically significant effect of the Criminal Justice System, Access to education and the Effects of conflict on the number of victims of modern slavery (per 1.000 people).
 
-
+- However, they do not accurately predict the number of victims, as the R squared value of the OLS analysis is just 0,30.
 
 ## Links 
 - [Global Slavery Index]()
