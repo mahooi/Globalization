@@ -2,7 +2,7 @@
 
 ## Content
 - [Project Description](#project-description)
-- [Questions and Hypotheses](#Questions-and-Hypotheses)
+- [Hypotheses Questions](#Hypotheses-Questions)
 - [Workflow](#workflow)
 - [Organization](#organization)
 - [Links](#links)
@@ -13,9 +13,9 @@
 
 Modern slavery is a truly global issue. In this analysis we attempted to discover possible correlations from an existing Modern Slavery Index containing data for 2017 and other datasets containing rankings by country such as GDP or Acces to Education. 
 
-# Questions & Hypotheses
+# Hypotheses Questions
 <img src="https://github.com/NekPel/visualizing_real_world_data/blob/master/Visualisations/World%20Slavery%20Map.png" width="400">
-1. Does the Acces to Education influence the prevalence of Modern Slavery (victims per 1.000 people) accross the worlk? 
+1. Does the Acces to Education influence the prevalence of Modern Slavery (victims per 1.000 people) accross the world? 
 
 <img src="https://github.com/NekPel/visualizing_real_world_data/blob/master/Visualisations/access%20to%20education.png" width="400">
 
