@@ -11,7 +11,7 @@
 
 <img src="https://preview.redd.it/ad5srjbso8q11.jpg?width=960&crop=smart&auto=webp&s=d69d84972365233e2f918ecc4e5d11eba3f48a97" alt="Global Slavery Index 2018" width="600"/>
 
-Modern slavery is a truly global issue. In this analysis we attempted to discover possible correlations from an existing Modern Slavery Index containing data for 2017 and other datasets containing rankings by country such as GDP or Acces to Education. 
+Modern slavery is a truly global issue. In this analysis we attempted to discover possible correlations from an existing [Modern Slavery Index](https://www.globalslaveryindex.org/) containing data for 2017 and other datasets containing rankings by country such as GDP or Access to Education. 
 
 # Hypotheses Questions
 <img src="https://github.com/NekPel/visualizing_real_world_data/blob/master/Visualisations/World%20Slavery%20Map.png" width="400">
