@@ -46,7 +46,12 @@ Modern slavery is a truly global issue. In this analysis we attempted to discove
 
 ## Organization
 
+In order to obtain the final [dataset](https://github.com/NekPel/visualizing_real_world_data/blob/master/Data/merged_dataset.csv), we had to first generate a new [GDP per capita dataset](https://github.com/NekPel/visualizing_real_world_data/blob/master/Data/gdp_per_capita.csv) derived from the original [GDP World Bank Data](https://github.com/NekPel/visualizing_real_world_data/blob/master/Data/gdp_data.csv). Then, we merged it with the original [Global Slavery Index](https://github.com/NekPel/visualizing_real_world_data/blob/master/Data/clean_slavery_index.csv) and the [Acces to Education Index](https://github.com/NekPel/visualizing_real_world_data/blob/master/Data/access_to_education_index.csv).
+
 ### Data Cleaning
+
+We had to convert column datatypes first to strings and then to floats in order to achieve the desired results. Furthermore, aside from removing rows with null values,
+we also renamed the column names we used in our analysis for a better understanding of the data.
 
 Recommended Order:
 
@@ -61,7 +66,7 @@ Recommended Order:
 - However, they do not accurately predict the number of victims, as the R squared value of the OLS analysis is just 0,30.
 
 ## Links 
-- [Global Slavery Index]()
+- [Global Slavery Index](https://www.globalslaveryindex.org/resources/downloads/)
 - [The World Bank - GDP Ranking](http://api.worldbank.org/v2/en/indicator/NY.GDP.MKTP.CD?downloadformat=csv)
 - [Access to Education Index](http://hdr.undp.org/en/content/education-index)
 - [Google Slides](https://docs.google.com/presentation/d/17P5jbXlvgWv5qvLXZOgitLfhtC6prKgK/edit#slide=id.g8bebe9fff5_2_0)
