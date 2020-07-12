@@ -1,7 +1,12 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Human Slavery
-
+<img src="https://github.com/NekPel/visualizing_real_world_data/blob/master/Visualisations/World%20Slavery%20Map.png" width="100"/>
+<img src="https://github.com/NekPel/visualizing_real_world_data/blob/master/Visualisations/access%20to%20education.png"/>
+<img src="https://github.com/NekPel/visualizing_real_world_data/blob/master/Visualisations/biggest%20contributors%20to%20modern%20slavery.png" width="100"/>
+<img src="https://github.com/NekPel/visualizing_real_world_data/blob/master/Visualisations/biggest%20contributors%20to%20modern%20slavery%202.png" width="100"/>
+<img src="https://github.com/NekPel/visualizing_real_world_data/blob/master/Visualisations/conflict%20map.png" width="100"/>
+<img src="https://github.com/NekPel/visualizing_real_world_data/blob/master/Visualisations/criminal%20justice%20system.png" width="100"/>
 
 *[Data Analytics, Berlin & 07.20]*
 
@@ -22,4 +27,5 @@
 
 
 ## Links 
-  
+Tableau: https://public.tableau.com/profile/cezar2951#!/vizhome/ModernSlaveryAnalysis/Story1?publish=yes
+Google Slides: https://docs.google.com/presentation/d/17P5jbXlvgWv5qvLXZOgitLfhtC6prKgK/edit#slide=id.g8bebe9fff5_2_0
