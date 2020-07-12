@@ -32,11 +32,38 @@ Modern slavery is a truly global issue. In this analysis we attempted to discove
 4. What is the best model to describe the Index? 
 
 ## Workflow
-
+- Choosing the topic
+- Finding the relevant data sets
+- Deciding on the focus for the project
+- Defining tasks to be done
+- Created [Trello](https://trello.com/b/5O7coURN/modern-slavery) board in order to keep track of tasks.
+- Data cleaning and wrangling
+- Deletion of rows with Null Values 
+- Creating final merged dataset
+- Visualizations
+- Analysis
+- [Conclusions](https://docs.google.com/presentation/d/17P5jbXlvgWv5qvLXZOgitLfhtC6prKgK/edit#slide=id.g8bebe9fff5_1_36)
 
 ## Organization
 
+### Data Cleaning
+
+Recommended Order:
+
+[GDP per Capita Analysis](https://github.com/NekPel/visualizing_real_world_data/blob/master/Notebooks/GDP%20per%20Capita%20Analysis.ipynb) 
+[Access to Education Analysis](https://github.com/NekPel/visualizing_real_world_data/blob/master/Notebooks/Access%20to%20Education%20Analysis.ipynb)
+[Modern Slavery Analysis](https://github.com/NekPel/visualizing_real_world_data/blob/master/Notebooks/Modern%20Slavery%20Analysis.ipynb)
+
+### Analysis
+
+In order to 
+
+
 
 ## Links 
-Tableau: https://public.tableau.com/profile/cezar2951#!/vizhome/ModernSlaveryAnalysis/Story1?publish=yes
-Google Slides: https://docs.google.com/presentation/d/17P5jbXlvgWv5qvLXZOgitLfhtC6prKgK/edit#slide=id.g8bebe9fff5_2_0
+- [Global Slavery Index]()
+- [The World Bank - GDP Ranking](http://api.worldbank.org/v2/en/indicator/NY.GDP.MKTP.CD?downloadformat=csv)
+- [Access to Education Index](http://hdr.undp.org/en/content/education-index)
+- [Google Slides](https://docs.google.com/presentation/d/17P5jbXlvgWv5qvLXZOgitLfhtC6prKgK/edit#slide=id.g8bebe9fff5_2_0)
+- [Tableau](https://public.tableau.com/profile/cezar2951#!/vizhome/ModernSlaveryAnalysis/Story1?publish=yes)
+- [Trello](https://trello.com/b/EC0kcusx/module-2-board)
