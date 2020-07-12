@@ -50,9 +50,9 @@ Modern slavery is a truly global issue. In this analysis we attempted to discove
 
 Recommended Order:
 
-[GDP per Capita Analysis](https://github.com/NekPel/visualizing_real_world_data/blob/master/Notebooks/GDP%20per%20Capita%20Analysis.ipynb) 
-[Access to Education Analysis](https://github.com/NekPel/visualizing_real_world_data/blob/master/Notebooks/Access%20to%20Education%20Analysis.ipynb)
-[Modern Slavery Analysis](https://github.com/NekPel/visualizing_real_world_data/blob/master/Notebooks/Modern%20Slavery%20Analysis.ipynb)
+- [GDP per Capita Analysis](https://github.com/NekPel/visualizing_real_world_data/blob/master/Notebooks/GDP%20per%20Capita%20Analysis.ipynb)
+- [Access to Education Analysis](https://github.com/NekPel/visualizing_real_world_data/blob/master/Notebooks/Access%20to%20Education%20Analysis.ipynb)
+- [Modern Slavery Analysis](https://github.com/NekPel/visualizing_real_world_data/blob/master/Notebooks/Modern%20Slavery%20Analysis.ipynb)
 
 ### Analysis
 
