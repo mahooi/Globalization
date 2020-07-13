@@ -1,0 +1,163 @@
+,Country,population,Region,"est victims per 1,000",est slavery population,vulnerability score,gov resp,Credit rating
+0,"Korea, Democratic People's Republic of","25,244,000",Asia and the Pacific,104.6,"2,640,000",73.3,-5.6,D
+1,Eritrea,"4,847,000",Africa,93.0,"451,000",69.6,-2.0,D
+2,Burundi,"10,199,000",Africa,40.0,"408,000",72.9,10.7,C
+3,Central African Republic,"4,546,000",Africa,22.3,"101,000",100.0,2.5,D
+5,Mauritania,"4,182,000",Africa,21.4,"90,000",62.0,15.5,C
+7,Pakistan,"189,381,000",Asia and the Pacific,16.8,"3,186,000",74.1,18.6,C
+8,Cambodia,"15,518,000",Asia and the Pacific,16.8,"261,000",63.5,37.6,CCC
+9,"Iran, Islamic Republic of","79,360,000",Asia and the Pacific,16.2,"1,289,000",63.3,6.8,D
+10,Somalia,"13,908,000",Africa,15.5,"216,000",89.5,16.0,C
+11,"Congo, Democratic Republic of the","76,197,000",Africa,13.7,"1,045,000",91.7,18.9,C
+12,Mongolia,"2,977,000",Asia and the Pacific,12.3,"37,000",43.5,30.7,CCC
+13,Sudan,"38,648,000",Africa,12.0,"465,000",87.1,14.9,C
+14,Chad,"14,009,000",Africa,12.0,"168,000",74.9,16.7,C
+15,Rwanda,"11,630,000",Africa,11.6,"134,000",61.7,33.6,CCC
+16,Turkmenistan,"5,565,000",Europe and Central Asia,11.2,"62,000",58.1,27.1,CC
+17,Myanmar,"52,404,000",Asia and the Pacific,11.0,"575,000",65.9,32.4,CCC
+18,Brunei Darussalam,"418,000",Asia and the Pacific,10.9,"5,000",47.2,20.6,CC
+19,Belarus,"9,486,000",Europe and Central Asia,10.9,"103,000",47.3,40.1,B
+20,Papua New Guinea,"7,920,000",Asia and the Pacific,10.3,"81,000",61.9,18.9,C
+21,Lao People's Democratic Republic,"6,664,000",Asia and the Pacific,9.4,"62,000",57.5,34.0,CCC
+22,Thailand,"68,658,000",Asia and the Pacific,8.9,"610,000",51.1,48.9,B
+23,Swaziland,"1,319,000",Africa,8.8,"12,000",64.8,29.3,CC
+24,"Macedonia, the former Yugoslav Republic of","2,079,000",Europe and Central Asia,8.7,"18,000",45.6,63.2,BBB
+25,Congo,"4,996,000",Africa,8.0,"40,000",69.2,14.8,C
+26,Greece,"11,218,000",Europe and Central Asia,7.9,"89,000",37.1,55.1,BB
+27,Guinea,"12,092,000",Africa,7.8,"94,000",66.3,19.3,C
+28,Libya,"6,235,000",Africa,7.7,"48,000",73.1,-2.5,D
+29,Philippines,"101,716,000",Asia and the Pacific,7.7,"784,000",60.2,55.8,BB
+30,Timor-Leste,"1,241,000",Asia and the Pacific,7.7,"10,000",52.8,28.5,CC
+31,Nigeria,"181,182,000",Africa,7.7,"1,386,000",74.1,45.8,B
+32,Uganda,"40,145,000",Africa,7.6,"304,000",60.8,42.0,B
+33,Madagascar,"24,234,000",Africa,7.5,"182,000",62.0,31.8,CCC
+34,Malawi,"17,574,000",Africa,7.5,"131,000",63.4,26.8,CC
+35,Guinea-Bissau,"1,771,000",Africa,7.5,"13,000",70.5,18.9,C
+36,Liberia,"4,500,000",Africa,7.4,"33,000",59.3,31.7,CCC
+38,Angola,"27,859,000",Africa,7.2,"199,000",62.3,29.5,CC
+39,Djibouti,"927,000",Africa,7.1,"7,000",61.2,35.3,CCC
+40,Kenya,"47,236,000",Africa,6.9,"328,000",70.6,36.5,CCC
+41,Malaysia,"30,723,000",Asia and the Pacific,6.9,"212,000",39.2,38.4,CCC
+42,Albania,"2,923,000",Europe and Central Asia,6.9,"20,000",45.2,59.9,BB
+43,Cameroon,"22,835,000",Africa,6.9,"157,000",69.6,25.4,CC
+44,Togo,"7,417,000",Africa,6.8,"50,000",61.3,23.6,CC
+45,Niger,"19,897,000",Africa,6.7,"133,000",65.6,25.9,CC
+46,Zimbabwe,"15,777,000",Africa,6.7,"105,000",66.4,19.0,C
+47,Turkey,"78,271,000",Europe and Central Asia,6.5,"509,000",51.6,47.4,B
+48,Ukraine,"44,658,000",Europe and Central Asia,6.4,"286,000",54.4,53.0,BB
+49,Equatorial Guinea,"1,175,000",Africa,6.4,"7,000",61.7,8.6,D
+50,"Tanzania, United Republic of","53,880,000",Africa,6.2,"336,000",60.5,32.8,CCC
+51,Ethiopia,"99,873,000",Africa,6.1,"614,000",64.5,36.3,CCC
+52,India,"1,309,054,000",Asia and the Pacific,6.1,"7,989,000",55.5,45.7,B
+53,Croatia,"4,236,000",Europe and Central Asia,6.0,"25,000",32.7,68.2,BBB
+54,Nepal,"28,656,000",Asia and the Pacific,6.0,"171,000",44.1,38.7,CCC
+55,Côte d'Ivoire,"23,108,000",Africa,5.9,"137,000",57.2,42.4,B
+56,Montenegro,"628,000",Europe and Central Asia,5.9,"4,000",35.8,64.0,BBB
+57,Gambia,"1,978,000",Africa,5.8,"11,000",58.4,33.9,CCC
+58,Lithuania,"2,932,000",Europe and Central Asia,5.8,"17,000",26.2,59.1,BB
+59,Zambia,"16,101,000",Africa,5.7,"92,000",55.2,31.8,CCC
+60,"Venezuela, Bolivarian Republic of","31,155,000",Americas,5.6,"174,000",57.9,28.2,CC
+61,Haiti,"10,711,000",Americas,5.6,"59,000",69.6,39.7,CCC
+62,Egypt,"93,778,000",Africa,5.5,"518,000",60.4,40.1,B
+63,Russian Federation,"143,888,000",Europe and Central Asia,5.5,"794,000",51.6,20.7,CC
+64,"Moldova, Republic of","4,066,000",Europe and Central Asia,5.5,"22,000",41.6,55.7,BB
+65,Benin,"10,576,000",Africa,5.5,"58,000",45.0,37.7,CCC
+66,Mozambique,"28,011,000",Africa,5.4,"152,000",57.0,40.7,B
+67,Armenia,"2,917,000",Europe and Central Asia,5.3,"16,000",43.6,53.2,BB
+68,Uzbekistan,"30,976,000",Europe and Central Asia,5.2,"160,000",47.5,30.4,CCC
+69,Sierra Leone,"7,237,000",Africa,5.0,"36,000",55.2,46.2,B
+70,Ghana,"27,583,000",Africa,4.8,"133,000",52.2,27.6,CC
+72,Gabon,"1,930,000",Africa,4.8,"9,000",49.1,24.2,CC
+73,Indonesia,"258,162,000",Asia and the Pacific,4.7,"1,220,000",50.5,50.8,BB
+74,Tajikistan,"8,549,000",Europe and Central Asia,4.5,"39,000",55.8,33.0,CCC
+75,Burkina Faso,"18,111,000",Africa,4.5,"82,000",53.1,35.7,CCC
+76,Viet Nam,"93,572,000",Asia and the Pacific,4.5,"421,000",41.5,48.1,B
+77,Bulgaria,"7,177,000",Europe and Central Asia,4.5,"32,000",31.3,55.8,BB
+78,Azerbaijan,"9,617,000",Europe and Central Asia,4.5,"43,000",47.8,48.2,B
+79,Georgia,"3,952,000",Europe and Central Asia,4.3,"17,000",39.2,62.8,BBB
+80,Romania,"19,877,000",Europe and Central Asia,4.3,"86,000",33.9,43.9,B
+81,Cyprus,"1,161,000",Europe and Central Asia,4.2,"5,000",19.1,63.4,BBB
+82,Kazakhstan,"17,750,000",Europe and Central Asia,4.2,"75,000",43.3,32.8,CCC
+83,Lesotho,"2,175,000",Africa,4.2,"9,000",58.3,38.3,CCC
+84,Kyrgyzstan,"5,865,000",Europe and Central Asia,4.1,"24,000",42.8,40.9,B
+85,Cape Verde,"533,000",Africa,4.1,"2,000",44.5,22.9,CC
+86,Dominican Republic,"10,528,000",Americas,4.0,"42,000",43.1,58.0,BB
+87,Kosovo,"1,905,000",Europe and Central Asia,4.0,"8,000",43.8,54.8,BB
+88,Latvia,"1,993,000",Europe and Central Asia,3.9,"8,000",24.6,60.9,BBB
+89,Israel,"8,065,000",Europe and Central Asia,3.9,"31,000",36.4,52.1,BB
+90,Cuba,"11,461,000",Americas,3.8,"43,000",52.4,20.8,CC
+91,Bangladesh,"161,201,000",Asia and the Pacific,3.7,"592,000",50.0,44.4,B
+92,Hungary,"9,784,000",Europe and Central Asia,3.7,"36,000",23.6,58.2,BB
+93,Estonia,"1,315,000",Europe and Central Asia,3.6,"5,000",29.2,48.8,B
+94,Mali,"17,468,000",Africa,3.6,"62,000",55.9,30.8,CCC
+95,Botswana,"2,209,000",Africa,3.4,"8,000",42.1,33.2,CCC
+96,Singapore,"5,535,000",Asia and the Pacific,3.4,"19,000",13.4,32.8,CCC
+97,Bosnia and Herzegovina,"3,536,000",Europe and Central Asia,3.4,"12,000",46.4,48.6,B
+98,Honduras,"8,961,000",Americas,3.4,"30,000",55.5,37.0,CCC
+99,Poland,"38,265,000",Europe and Central Asia,3.4,"128,000",24.4,53.9,BB
+100,Serbia,"8,851,000",Europe and Central Asia,3.3,"30,000",33.9,61.9,BBB
+101,Namibia,"2,426,000",Africa,3.3,"8,000",48.1,33.3,CCC
+103,Trinidad and Tobago,"1,360,000",Americas,3.0,"4,000",39.1,49.9,B
+104,Slovakia,"5,439,000",Europe and Central Asia,2.9,"16,000",27.2,53.2,BB
+105,Guatemala,"16,252,000",Americas,2.9,"47,000",52.1,45.2,B
+106,Nicaragua,"6,082,000",Americas,2.9,"18,000",43.9,46.3,B
+107,Czech Republic,"10,604,000",Europe and Central Asia,2.9,"31,000",19.1,52.9,BB
+108,Senegal,"14,977,000",Africa,2.9,"43,000",46.2,47.1,B
+109,South Africa,"55,291,000",Africa,2.8,"155,000",53.8,47.4,B
+110,China,"1,397,029,000",Asia and the Pacific,2.8,"3,864,000",50.6,27.4,CC
+111,Barbados,"284,000",Americas,2.7,"<1,000",41.9,39.4,CCC
+112,Colombia,"48,229,000",Americas,2.7,"131,000",51.6,41.1,B
+113,Mexico,"125,891,000",Americas,2.7,"341,000",57.3,52.4,BB
+114,Algeria,"39,872,000",Africa,2.7,"106,000",52.0,36.3,CCC
+115,Guyana,"769,000",Americas,2.6,"2,000",45.4,31.5,CCC
+116,Jamaica,"2,872,000",Americas,2.6,"7,000",44.2,58.6,BB
+117,Peru,"31,377,000",Americas,2.6,"80,000",44.3,52.5,BB
+118,El Salvador,"6,312,000",Americas,2.5,"16,000",50.7,37.4,CCC
+119,Portugal,"10,418,000",Europe and Central Asia,2.5,"26,000",8.5,66.3,BBB
+120,Morocco,"34,803,000",Africa,2.4,"85,000",48.3,36.5,CCC
+121,Italy,"59,504,000",Europe and Central Asia,2.4,"145,000",28.3,62.0,BBB
+122,Ecuador,"16,144,000",Americas,2.4,"39,000",41.3,46.4,B
+123,Spain,"46,398,000",Europe and Central Asia,2.3,"105,000",12.8,66.9,BBB
+124,Suriname,"553,000",Americas,2.3,"1,000",42.1,27.1,CC
+125,Tunisia,"11,274,000",Africa,2.2,"25,000",39.2,44.3,B
+126,Slovenia,"2,075,000",Europe and Central Asia,2.2,"5,000",20.1,59.6,BB
+127,Oman,"4,200,000",Arab States,2.1,"9,000",50.1,32.0,CCC
+128,"Bolivia, Plurinational State of","10,725,000",Americas,2.1,"23,000",44.1,41.3,B
+129,Sri Lanka,"20,714,000",Asia and the Pacific,2.1,"44,000",42.5,37.4,CCC
+130,Iceland,"330,000",Europe and Central Asia,2.1,"<1,000",4.2,46.4,B
+131,United Kingdom,"65,397,000",Europe and Central Asia,2.1,"136,000",11.1,71.5,BBB*
+132,Panama,"3,969,000",Americas,2.1,"8,000",36.4,43.9,B
+133,Germany,"81,708,000",Europe and Central Asia,2.0,"167,000",10.4,57.1,BB
+134,Belgium,"11,288,000",Europe and Central Asia,2.0,"23,000",13.1,68.3,BBB
+135,France,"64,457,000",Europe and Central Asia,2.0,"129,000",15.3,61.5,BBB
+136,"Korea, Republic of","50,594,000",Asia and the Pacific,1.9,"99,000",29.8,27.6,CC
+137,Saudi Arabia,"31,557,000",Arab States,1.9,"61,000",46.3,27.9,CC
+138,Bahrain,"1,372,000",Arab States,1.9,"3,000",49.6,32.6,CCC
+139,Norway,"5,200,000",Europe and Central Asia,1.8,"9,000",4.5,66.8,BBB
+140,Jordan,"9,159,000",Arab States,1.8,"17,000",49.9,38.6,CCC
+141,Brazil,"205,962,000",Americas,1.8,"369,000",36.4,55.6,BB
+142,Netherlands,"16,938,000",Europe and Central Asia,1.8,"30,000",6.1,75.2,A
+143,Austria,"8,679,000",Europe and Central Asia,1.7,"15,000",3.4,63.1,BBB
+144,Lebanon,"5,851,000",Arab States,1.7,"10,000",58.9,31.3,CCC
+145,Switzerland,"8,320,000",Europe and Central Asia,1.7,"14,000",1.5,60.0,BBB
+146,Ireland,"4,700,000",Europe and Central Asia,1.7,"8,000",10.4,57.7,BB
+147,United Arab Emirates,"9,154,000",Arab States,1.7,"15,000",26.8,47.8,B
+148,Finland,"5,482,000",Europe and Central Asia,1.7,"9,000",8.2,57.9,BB
+149,Denmark,"5,689,000",Europe and Central Asia,1.6,"9,000",1.0,58.6,BB
+150,Paraguay,"6,639,000",Americas,1.6,"11,000",40.9,40.9,B
+151,Sweden,"9,764,000",Europe and Central Asia,1.6,"15,000",4.3,68.7,BBB
+152,Qatar,"2,482,000",Arab States,1.5,"4,000",37.7,35.4,CCC
+153,Luxembourg,"567,000",Europe and Central Asia,1.5,"<1,000",8.4,45.4,B
+154,Kuwait,"3,936,000",Arab States,1.5,"6,000",45.9,27.8,CC
+155,"Hong Kong, China","7,246,000",Asia and the Pacific,1.4,"10,000",24.7,21.4,CC
+156,Argentina,"43,418,000",Americas,1.3,"55,000",28.9,62.6,BBB
+157,United States,"319,929,000",Americas,1.3,"403,000",15.9,71.7,BBB*
+158,Costa Rica,"4,808,000",Americas,1.3,"6,000",28.4,50.0,BB
+159,Uruguay,"3,432,000",Americas,1.0,"4,000",19.7,50.4,BB
+160,Mauritius,"1,259,000",Africa,1.0,"1,000",21.2,34.9,CCC
+161,Chile,"17,763,000",Americas,0.8,"14,000",25.6,62.3,BBB
+162,Australia,"23,800,000",Asia and the Pacific,0.6,"15,000",4.3,63.8,BBB
+163,New Zealand,"4,615,000",Asia and the Pacific,0.6,"3,000",1.9,57.6,BB
+164,"Taiwan, China","23,486,000",Asia and the Pacific,0.5,"12,000",20.3,38.2,CCC
+165,Canada,"35,950,000",Americas,0.5,"17,000",10.2,58.6,BB
+166,Japan,"127,975,000",Asia and the Pacific,0.3,"37,000",13.8,36.6,CCC
